@@ -8,8 +8,8 @@ import Depoimentos from './componentes/depoimentos/Depoimentos';
 import HeroSection from './componentes/hero/HeroSection';
 import FAQ from './componentes/faq/FAQ';
 import Footer from './componentes/footer/Footer';
-// import Whatsapp from './tools/Whatsapp';
-// import HeroFormSection from './componentes/formulario/HeroFormSection';
+import Whatsapp from './tools/Whatsapp';
+
 
 
 function app02() {
