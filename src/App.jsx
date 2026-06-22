@@ -16,12 +16,12 @@ function app02() {
     return (
         <>
             <HeroSection/>
-            <Autoridade/>
             <Oferecimento/>
+            <Autoridade/>
             <Beneficios/>
             <Depoimentos/>
-            <Formulario/>
             <FAQ/>
+            <Formulario/>
             <Footer/>
         </>
     );
