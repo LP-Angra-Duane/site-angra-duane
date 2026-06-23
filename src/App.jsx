@@ -17,8 +17,8 @@ function app02() {
         <>
             <HeroSection/>
             <Oferecimento/>
-            <Autoridade/>
             <Beneficios/>
+            <Autoridade/>
             <Depoimentos/>
             <FAQ/>
             <Formulario/>
