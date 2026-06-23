@@ -9,11 +9,7 @@ Sobre o Projeto
 O projeto consiste em uma Landing Page moderna, responsiva e de alta performance, estruturada para transmitir paz, equilíbrio e profissionalismo. O design foi planejado para guiar o usuário desde a introdução energética da marca até a conversão (agendamento de sessões).
 
 Estrutura de Seções
-Seção 1 (Hero): Introdução de impacto visual focada em transformação e equilíbrio.
-Seção 2 (Soluções): Apresentação detalhada de 4 cards interativos com as soluções da terapia.
-Seção 3 (Autoridade): Seção institucional com elementos visuais de lótus reforçando a essência da marca.
-Seção 4
-
+Temos 7 seções que falam sobre: Home, O que é, Benefícios, Quem sou, Depoimentos, Dúvidas e Formulário.
 
 Tecnologias Utilizadas
 
