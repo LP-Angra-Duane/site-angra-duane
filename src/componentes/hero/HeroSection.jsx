@@ -6,13 +6,13 @@ import logoImg from '../../images/Logo.png';
 import videoBg from '../../images/VideoHero.mp4'; 
 
 const menuItems = [
-  { name: 'Home', href: '#home', icone: '🏠' },
-  { name: 'O que é', href: '#oque-e', icone: '✨' },
-  { name: 'Benefícios', href: '#benefícios', icone: '🌿' },
-  { name: 'Quem sou', href: '#autoridade', icone: '🧘' },
-  { name: 'Depoimentos', href: '#depoimentos', icone: '💬' },
-  { name: 'Dúvidas', href: '#duvidas', icone: '❓' },
-  { name: 'Formulário', href: '#formulario', icone: '📅' },
+  { name: 'Home', href: '#home' },
+  { name: 'Serviços', href: '#oque-e'},
+  { name: 'Benefícios', href: '#benefícios'},
+  { name: 'Quem sou', href: '#autoridade'},
+  { name: 'Depoimentos', href: '#depoimentos'},
+  { name: 'Dúvidas', href: '#duvidas'},
+  { name: 'Formulário', href: '#formulario'},
 ];
 
 function HeroSection() {
