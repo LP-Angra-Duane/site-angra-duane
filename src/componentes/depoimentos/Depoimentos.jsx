@@ -21,7 +21,7 @@ function Depoimentos() {
     ];
 
     return (
-        <section className={styles.divSecDepoimentos}>
+        <section id="depoimentos" className={styles.divSecDepoimentos}>
             {}
             <div className={styles.titulosDepoimentos}>
                 <h1>Depoimento de Clientes</h1>

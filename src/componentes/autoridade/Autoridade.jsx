@@ -5,7 +5,7 @@ import fotoAngra from "../../images/angraDuaneAut.jpeg"
 function Autoridade(){
     return(
         <>
-            <div className={style.divSecAut}>
+            <div id="autoridade" className={style.divSecAut}>
                 <div className={style.titulosAut}>
                     <h1>QUEM SOU</h1>
                     <h2>SAIBA UM POUCO SOBRE QUEM É ANGRA DUANE</h2>

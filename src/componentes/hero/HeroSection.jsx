@@ -139,17 +139,6 @@ function HeroSection() {
           Agendar Sessão
         </a>
       </footer>
-
-      <a 
-        href="https://wa.me/5534988491004" 
-        className={styles.btnWhatsFlutuante}
-        target="_blank"
-        rel="noopener noreferrer"
-        aria-label="Fale conosco no WhatsApp"
-      >
-        <FaWhatsapp size={35} />
-      </a>
-
     </div>
   );
 }

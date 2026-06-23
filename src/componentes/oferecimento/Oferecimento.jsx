@@ -42,8 +42,8 @@ function Oferecimento() {
     ];
 
     return (
-        <section className={styles.divSecOferecimento}>
-            <div className={styles.titulosOferecimento}>
+        <section id="oque-e" className={styles.divSecOferecimento}>
+                <div className={styles.titulosOferecimento}>
                 <h1>Caminhos de Cura</h1>
                 <h2>Bem-Estar e Desenvolvimento</h2>
             </div>
