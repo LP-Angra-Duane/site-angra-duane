@@ -2,7 +2,6 @@ import React from 'react';
 import styles from './Oferecimento.module.css';
 
 function Oferecimento() {
-    // 1. CONSTANTS
     const cardsData = [
         {
             title: "Medicina Chinesa e Autocuidado",
@@ -42,11 +41,10 @@ function Oferecimento() {
         }
     ];
 
-    // 2. RETURN
     return (
         <section className={styles.divSecOferecimento}>
             <div className={styles.titulosOferecimento}>
-                <h1>Nossas Soluções</h1>
+                <h1>Caminhos de Cura</h1>
                 <h2>Bem-Estar e Desenvolvimento</h2>
             </div>
             
