@@ -1,17 +1,25 @@
-# React + Vite
+Angra Duane - Essência Terapêutica
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PFJS - 01/2026
 
-Currently, two official plugins are available:
+Landing Page institucional desenvolvida para apresentar as soluções, benefícios e a identidade da marca Angra Duane.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Sobre o Projeto
 
-## React Compiler
+O projeto consiste em uma Landing Page moderna, responsiva e de alta performance, estruturada para transmitir paz, equilíbrio e profissionalismo. O design foi planejado para guiar o usuário desde a introdução energética da marca até a conversão (agendamento de sessões).
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Estrutura de Seções
+Seção 1 (Hero): Introdução de impacto visual focada em transformação e equilíbrio.
+Seção 2 (Soluções): Apresentação detalhada de 4 cards interativos com as soluções da terapia.
+Seção 3 (Autoridade): Seção institucional com elementos visuais de lótus reforçando a essência da marca.
+Seção 4
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# site-angra-duane
+Tecnologias Utilizadas
+
+O projeto foi construído utilizando ferramentas modernas do ecossistema Frontend para garantir velocidade e manutenibilidade:
+
+[Vite](https://vitejs.dev/) - Tooling de build ultrarrápido para o desenvolvimento.
+[React](https://reactjs.org/) *[ou Vue/HTML5 - ajuste aqui se necessário]* - Construção da interface baseada em componentes.
+[CSS3 / Tailwind CSS] *[coloque o que usou para estilizar]* - Estilização moderna e responsividade.
+[Git & GitHub] - Controle de versão e colaboração.
