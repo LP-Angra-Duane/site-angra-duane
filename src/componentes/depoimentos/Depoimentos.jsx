@@ -4,18 +4,18 @@ import styles from './Depoimentos.module.css';
 function Depoimentos() {
     const depoimentosData = [
         {
-            nome: "Camila Silva",
-            texto: "A terapia mudou completamente a minha forma de lidar com a ansiedade do dia a dia. Hoje me sinto muito mais leve, focada e em paz comigo mesma.",
+            nome: "Brenda Melo",
+            texto: "Faço meu acompanhamento há mais de 2 anos e posso dizer que fez muita diferença para mim. Me sinto mais leve, mais equilibrada emocionalmente e com mais bem-estar no dia a dia. Cada atendimento é um momento de cuidado e acolhimento. Sou muito grata por todo esse processo e recomendo de coração.",
             avaliacao: 5
         },
         {
-            nome: "Marcos Oliveira",
-            texto: "O atendimento une um acolhimento incrível com técnicas práticas que realmente funcionam. Consegui organizar minha rotina e melhorar meu sono logo nas primeiras semanas.",
+            nome: "Jenniffer Guimarães",
+            texto: "Fazer terapia com a Angra tem sido uma experiência muito especial para mim. Ao longo desse processo, consegui enxergar muitas situações da minha vida com mais clareza e consciência. A constelação familiar que fizemos há um tempo foi algo muito marcante. Realmente virou muitas chaves dentro de mim e trouxe mudanças importantes para várias áreas da minha vida. Passei a compreender melhor algumas questões, melhorar relacionamentos e ter um olhar mais leve sobre muitas situações. Sou muito grata por todo o acolhimento, carinho e profissionalismo da Angra. Tem sido uma jornada de muito aprendizado, autoconhecimento e transformação.",
             avaliacao: 5
         },
         {
-            nome: "Beatriz Santos",
-            texto: "Um divisor de águas na minha jornada de autoconhecimento. Encontrei um espaço seguro para expor minhas fragilidades e colher clareza para tomar decisões importantes.",
+            nome: "Mônica Queiroz",
+            texto: "Ter feito constelação com a Angra foi uma descoberta na minha vida. Lidar com a história da minha família, aprendendo a carregar apenas o peso da minha jornada, me desapegando do que não é meu, está sendo libertador. Me sinto cuidada e respeitada, além de ter melhorado meus relacionamentos com as pessoas, amigos e familiares, na vida pessoal e profissional.",
             avaliacao: 5
         }
     ];
