@@ -4,7 +4,7 @@ import styles from './Oferecimento.module.css';
 function Oferecimento() {
     const cardsData = [
         {
-            title: "Medicina Chinesa e Autocuidado",
+            title: "Medicina Chinesa",
             items: [
                 "Diagnóstico Visual (Língua e Face)",
                 "Acupressão para Alívio de Dores",
@@ -13,7 +13,7 @@ function Oferecimento() {
             ]
         },
         {
-            title: "Práticas Energéticas e Mentoria",
+            title: "Práticas Energéticas",
             items: [
                 "Constelação Familiar Sistêmica",
                 "Gestão de Estresse e Ansiedade",
@@ -22,7 +22,7 @@ function Oferecimento() {
             ]
         },
         {
-            title: "Dietoterapia e Fitoterapia Integrativa",
+            title: "Harmonia",
             items: [
                 "Avaliação dos 5 Elementos Chineses",
                 "Alimentação Terapêutica Personalizada",

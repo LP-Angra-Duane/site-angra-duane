@@ -14,8 +14,8 @@ function Depoimentos() {
             avaliacao: 5
         },
         {
-            nome: "Mônica Queiroz",
-            texto: "Ter feito constelação com a Angra foi uma descoberta na minha vida. Lidar com a história da minha família, aprendendo a carregar apenas o peso da minha jornada, me desapegando do que não é meu, está sendo libertador. Me sinto cuidada e respeitada, além de ter melhorado meus relacionamentos com as pessoas, amigos e familiares, na vida pessoal e profissional.",
+            nome: "Luiza Carrilho",
+            texto: "Conheci o trabalho da Angra há aproximadamente três meses e, desde então, venho sendo acompanhada por ela em um processo terapêutico que tem contribuído significativamente para o meu bem-estar e para a forma como tenho conduzido minha rotina. Ao longo desse período, realizamos diferentes abordagens integrativas. Mais do que a variedade de técnicas, o que realmente fez diferença foi a forma extremamente criteriosa, ética e individualizada com que cada atendimento foi conduzido. Em nenhum momento tive a sensação de estar recebendo um protocolo padronizado; cada sessão foi pensada de acordo com as minhas necessidades e com o momento que eu estava vivenciando. Naturalmente, esse processo caminhou em conjunto com a psicoterapia e outros cuidados que já faziam parte da minha rotina. Ainda assim, percebo que o trabalho desenvolvido pela Angra foi um importante complemento para a minha evolução. Tenho profunda gratidão por tudo o que vivi nesse processo e recomendo seu trabalho com absoluta confiança a qualquer pessoa que esteja em busca de um cuidado sério, humano e verdadeiramente transformador.",
             avaliacao: 5
         }
     ];

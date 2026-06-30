@@ -13,13 +13,13 @@
 
 .titulosOferecimento {
   text-align: center;
-  margin-bottom: 30px;
+  margin-bottom: 25px;
 }
 
 .titulosOferecimento h1 {
   font-family: "Cormorant Garamond", serif, Georgia, 'Times New Roman', serif;
-  font-size: 2.2rem;
-  font-weight: 700;
+  font-size: 2rem;
+  font-weight: 600;
   color: #bb8823;
   margin: 0 0 8px 0;
 }
