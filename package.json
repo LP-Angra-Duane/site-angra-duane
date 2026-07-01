@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://lp-angra-duane.github.io/site-angra-duane",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
